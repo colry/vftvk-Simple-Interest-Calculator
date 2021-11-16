@@ -9,3 +9,8 @@ h1{color:grey;font-family:verdana}
     border-radius:25px;
     margin:auto;
 }
+
+mark {
+  background-color: yellow;
+  color: black;
+}
